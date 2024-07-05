@@ -74,10 +74,5 @@ I welcome contributions to enhance the project! To contribute:
 4. Push to the branch (git push origin feature-branch).
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License.
-
-## Contact
-
-For any questions or inquiries, please contact [guptaanushka024@gmail.com](mailto:guptaanushka024@gmail.com).
+For any questions or inquiries, please contact [aryan153sharma@gmail.com](mailto:aryan153sharma@gmail.com).
