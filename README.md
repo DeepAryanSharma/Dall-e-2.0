@@ -43,15 +43,16 @@ Given that the OpenAI API is now a paid service, we have provided screenshots be
 ## Running the Project
 
 1. Start the frontend:
-   bash
+   ```bash
    cd client
    npm run dev
-   
+   ```
 
 2. Start the backend:
-   bash
+   ```bash
    cd ../server
    npm start
+   ```
    
 
 ## Deployment
