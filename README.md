@@ -10,9 +10,9 @@ AI image generation tools such as MidJourney and DALL-E have revolutionized the 
 
 Given that the OpenAI API is now a paid service, we have provided screenshots below to validate the functionality and effectiveness of the Dall-E-2.0 project. These visuals offer a transparent representation of the application's capabilities and its operational status.
 
-![Project Banner](https://github.com/DeepAryanSharma/dall-e/blob/main/home.png)
-![Create Post](https://github.com/DeepAryanSharma/dall-e/blob/main/create_page.png)
-![Generated Image](https://github.com/DeepAryanSharma/dall-e/blob/main/image_generation.png)
+![Project Banner](https://github.com/DeepAryanSharma/dall-e/blob/main/Interface.png)
+![Create Post](https://github.com/DeepAryanSharma/dall-e/blob/main/CreatePost.jpeg)
+![Generated Image](https://github.com/DeepAryanSharma/dall-e/blob/main/Image.png)
 
 ## Features
 
