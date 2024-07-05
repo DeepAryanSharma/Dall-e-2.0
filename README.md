@@ -75,6 +75,6 @@ I welcome contributions to enhance the project! To contribute:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-##Contact
+## Contact
 
 For any questions or inquiries, please contact [aryan153sharma@gmail.com](mailto:aryan153sharma@gmail.com).
