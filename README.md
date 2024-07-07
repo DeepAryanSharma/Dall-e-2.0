@@ -59,7 +59,7 @@ Given that the OpenAI API is now a paid service, we have provided screenshots be
 
 ### Frontend
 
-The frontend is deployed on Netlify. You can visit it at [Dall-E-2.0 on Netlify](https://dall-e-ver2.netlify.app/create-post).
+The frontend is deployed on Netlify. You can visit it at [Dall-E-2.0 on Netlify](https://dall-e-ver2.netlify.app/).
 
 ### Backend
 
